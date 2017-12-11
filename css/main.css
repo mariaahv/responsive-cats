@@ -29,7 +29,6 @@
 [class*="col-"]{/* clase qu afecta a todos los col-*/
 /*float: left;*/
 padding: 0px;
-
 }
 
 @media (max-width:767px) {
